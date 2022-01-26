@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Chaudhari</h1>
-<img src = "code boy.gif" align = "right">
+<img src = "code boy.gif" align = "right" height = "350" width = "350">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacch141&label=Profile%20views&color=0e75b6&style=flat" alt="hacch141" /> </p>
 
 - 🌱 I’m currently learning **Web development**
