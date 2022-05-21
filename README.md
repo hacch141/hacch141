@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacch141&label=Profile%20views&color=0e75b6&style=flat"
     alt="hacch141" /> </p>
-
-<img src="code boy.gif" align="right" height="350" width="350">
+  
+<p align="center"><img src="code boy.gif" height="350" width="350"></p>
 
 - 🌱 I’m currently learning **Web development**
 
-- 📫 How to reach me **harsh.j.chaudhari141@gmail.com**
+- 📫 How to reach me **harsh.j.chaudhari141@gmail.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
