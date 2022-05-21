@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harsh.j.chaudhari141@gmail.
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me :</h2>
 <p align="left">
   <a href="https://linkedin.com/in/harsh-chaudhari-86aa91201" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -25,7 +25,7 @@
       alt="hacch_141" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools :</h2>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
@@ -47,10 +47,16 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <a href="https://cloud.google.com" target="_blank"
       rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp"
         width="40" height="40" /> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" 
+         width="40" height="40"/> </a>
+
 </p>
 
-<p><img align="center"
+<p><img align="left" width="450px"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=hacch141&show_icons=true&locale=en&layout=compact"
-    alt="hacch141" /></p>
+    alt="hacch141" />
+    <img align="right"  width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=hacch141&" alt="hacch141" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hacch141&" alt="hacch141" /></p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hacch141&&theme=xcode" height="400px"/></a>
