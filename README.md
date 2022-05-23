@@ -60,7 +60,7 @@
     <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=hacch141&show_icons=true&locale=en&layout=compact"
     alt="hacch141" />
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hacch141&" alt="hacch141" />
+    <img align="left" height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=hacch141&" alt="hacch141" />
 </p>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hacch141&&theme=xcode" height="400px"/></a>
