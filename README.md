@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Harsh Chaudhari</h1>
+<h1 align="center">Hey, I'm Harsh ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hacch141&label=Profile%20views&color=0e75b6&style=flat"
-    alt="hacch141" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=hacch141&label=Profile%20views&color=0e75b6&style=flat"
+    alt="hacch141" /> 
+    <img src="https://img.shields.io/badge/Focus-MERN-brightgreen"
+    alt="hacch141" /> 
+</p>
   
-<p align="center"><img src="code boy.gif" height="350" width="350"></p>
+<p align="center"><img src="code boy.gif" height="350" width="350"></p> 
 
 - 🌱 I’m currently learning **Web development**
 
