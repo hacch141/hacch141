@@ -54,13 +54,13 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" 
          width="40" height="40"/> </a>
-
 </p>
 
-<p><img align="left" width="450px"
+<p>
+    <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=hacch141&show_icons=true&locale=en&layout=compact"
     alt="hacch141" />
-    <img align="right"  width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=hacch141&" alt="hacch141" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hacch141&" alt="hacch141" />
 </p>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hacch141&&theme=xcode" height="400px"/></a>
