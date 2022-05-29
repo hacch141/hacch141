@@ -57,6 +57,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <a href="https://cloud.google.com" target="_blank"
       rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp"
         width="40" height="40" /> </a>
+  </br>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" 
          width="40" height="40"/> </a>
