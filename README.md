@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 📫 How to reach me **harsh.j.chaudhari141@gmail**.
+- 📫 How to reach me **harsh.j.chaudhari141@gmail.com**
 
 <h2 align="left">Connect with me :</h2>
 <p align="left">
