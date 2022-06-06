@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Harsh ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"></h1>
+<h1 align="center">Hey, I'm Harsh ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></h1>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=hacch141&label=Profile%20views&color=0e75b6&style=flat"
