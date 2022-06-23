@@ -15,18 +15,12 @@
 
 <h2 align="left">Connect with me :</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/harsh-chaudhari-86aa91201" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/harsh-chaudhari-86aa91201" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="harsh chaudhari" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/iiitv202052311" target="blank"><img align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chaudhari harsh jaydipbhai"
-      height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/harsh_j_chaudha1" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="harsh chaudhari" height="30" width="40" /></a>
-  <a href="https://instagram.com/hacch_141" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="hacch_141" height="30" width="40" /></a>
+    <a href="https://dev.to/hacch141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hacch141" height="30" width="40" /></a>
+    <a href="https://kaggle.com/harshchaudhariii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harshchaudhariii" height="30" width="40" /></a>
+    <a href="https://dribbble.com/hacch141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hacch141" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools :</h2>
@@ -66,7 +60,7 @@
          width="40" height="40"/> </a>    
   <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="mysql" 
-         width="40" height="40"/> </a>
+      width="40" height="40"/> </a>
 </p>
 
 <p>
