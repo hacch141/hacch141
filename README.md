@@ -9,7 +9,7 @@
   
 <p align="center"><img src="code boy.gif" height="350" width="350"></p> 
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **harsh.j.chaudhari141@gmail.com**
 
