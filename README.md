@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Harsh ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></h1>
 
 <p align="left"> 
-    <img src="https://img.shields.io/badge/Focus-MERN-brightgreen"
+    <img src="https://img.shields.io/badge/Focus-MERN Stack-brightgreen"
     alt="hacch141" /> 
 </p>
   
