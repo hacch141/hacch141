@@ -1,8 +1,6 @@
 <h1 align="center">Hey, I'm Harsh ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></h1>
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=hacch141&label=Profile%20views&color=0e75b6&style=flat"
-    alt="hacch141" /> 
     <img src="https://img.shields.io/badge/Focus-MERN-brightgreen"
     alt="hacch141" /> 
 </p>
