@@ -7,7 +7,7 @@
   
 <p align="center"><img src="code boy.gif" height="350" width="350"></p> 
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **harsh.j.chaudhari141@gmail.com**
 
